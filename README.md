@@ -1,7 +1,3 @@
-Here's your modified **README.md** that reflects all the recent updates in your project:
-
----
-
 # **3D Character Animation in OpenGL**
 A real-time **3D character animation system** implemented in **C++ and OpenGL**, featuring **skeletal animation, keyframe interpolation, shader-based rendering, and real-time character control**. The project utilizes **Assimp for FBX model loading**, **GLM for transformations**, and **OpenGL for rendering**.
 
